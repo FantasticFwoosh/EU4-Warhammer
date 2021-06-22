@@ -1,0 +1,443 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+#
+# Union tags do not suffer from the 'same_culture_group' tax penalty.
+# Primary tags are the first choice for rebel factions seeking cultural independence.
+#
+# graphical_culture = westerngfx
+# second_graphical_culture = muslimgfx (fallback if the first does not exist)
+
+empire	= {
+	graphical_culture = westerngfx
+
+	half_elf = {
+	}
+	reiklander = {
+		primary = E01
+	}
+	middenlander = {
+		primary = E04
+	}
+	nordlander = {
+		primary = E05
+	}
+	hochlander = {
+		primary = E06
+	}
+	ostermarker = {
+		primary = E07
+	}
+	eilharter = {
+		primary = E09
+	}
+	
+	dynasty_names = {
+		"von Klinckow" "von Puttkamer" "von Barnekow" "von Strantz" "Gryf" "Wizlawid"
+		"von Krassow" "von der Lancken" "von Schlieffen" "von Schwerin"
+		"von Schöning" "von Suhm" "von Maltzahn" "von Below" "von Blixen" "von Borcke"
+		"von Buggenhagen" "von Manteuffel" "von Corswant" "von Stralenheim" "von Dewitz" "von Preen" "von Podewils"
+		"von Flemming" "von Platen" "von Neuenkirchen" "von Gottberg" "von Hackewitz" "von Hennigs" "Trampe" "von Hertzberg" "von Heyden" "von Kameke" "von Kleist" "Natzmer" 
+		"von Zepelin" "von Gostowski" "von Wakenitz"
+		"von Usedom" "Thun" "von Thadden"
+	}
+	male_names = {
+		Albrecht Friedrich August Emil Ferdinand Karl Wilhelm Adolf Alfred Anton Benedikt 
+		Benjamin Denis Diederick Eckbert Erwin Florian Franz Gebhard Gottfried Hartmann Heinrich Helmut 
+		Horst Joachim Kaspar Kurt Leo Ludwig Lukas Manfred Michael Nikolaus Oskar Otto Philipp Reiner Rudolf 
+		Rupprecht Siegfried Siegmund Thomas Urs Viktor Werner Alvydas Arelis Auctune Bajoras Beidras Budo Dagonis 
+		Ekkelis Galindas Galindo Gauronas Gerdautas Glande Golding Jauguttis Karatas Klukis Kugis Milzas Nomedas 
+		Prusas Sergonis Ulinniks Ulitis
+	}
+	female_names = {
+		Raphaela Sabine Vera Betten Dagas Gelennis Gerkus Grasus Gulbis Mila Milyuns Weslikan Ziedas
+	}
+}
+
+bretonnia	= {
+	graphical_culture = westerngfx
+
+	half_elf = {
+	}
+	couronne = {
+		primary = B01
+	}	
+	bordeleaux = {
+		primary = B02
+	}
+	carcassonne = {
+		primary = B03
+	}
+	lyonesse = {
+		primary = B04
+	}
+	artois = {
+		primary = B05
+	}
+	bastonne = {
+		primary = B06
+	}
+	parravon = {
+		primary = B07
+	}
+	aquitaine = {
+		primary = B08
+	}
+	brionne = {
+		primary = B09
+	}
+	gisoreux = {
+		primary = B10
+	}
+	montfort = {
+		primary = B11
+	}
+	quenelles = {
+		primary = B12
+	}
+	dynasty_names = {
+		"de Valois" "de Bourbon" "de la Tour" "d'Anjou" 
+		"de Lorraine" "de Foix" "de Montfort" "de Blois" "de Penthievre" "de Dreux"
+		"de Rohan" "de Bar" "d'Albert" "d'Escoubleau" "de Neufville" "de Bourgogne"
+		"de Castellane" "d'Auvergne" "de Montbéliard" "de Metz" 
+		#CKII Frankish
+		"de Laval" "de la Tour du Pin" "de La Trémoille" "de Créquy" "de Broglie"
+		"de Montesquiou" "de Courtenay" "d'Harcourt" "de La Croix" "Le Tellier"
+		"de Rochechouart" "d'Aumont" "de Vergy" "de Saboulin" "de Gramont" "de Bissy"
+		"de Barrau" "de La Fayette" "d'Armagnac" "de Rougé" "du Quenoy" "de Ficquelmont"
+		"de Talleyrand" "de Saintignon" "von Luxemburg" "de Montmorency" "de Savoie"
+		"de Vaudemont" "de Nicolaÿ"
+	}
+	male_names = {
+		Édouard Érrard Étienne Adémar Adrien Aimery Alain 
+		Aldebert Aldéric Alphonse Amaury Amédée Ancel André Antoine Archambaud Arnaud 
+		Arnault Arnoul Aubry Aymar Barthélémi Baudouin Benoît Bérenger Bernard Bertrand Bohemond 
+		Boson Bouchard Centule Charles Clotaire Ebbon Enguerrand Eudes Eustache Evrard Foulques François 
+		Frédéric Gaucher Gaucelin Gauthier Geoffroi Géraud Gilbert Gilles Godefroi
+		Guichard Guiges Guilhem Guillaume Guy Hélie Hamelin Henri Herbert Hildebert Hugues Humbert Jacques 
+		Jaufré Jaspert Jean Jourdain Julien Léon Léonard Lothaire Louis Loup Mathieu Maurice Nicolas Ogier Onfroi Orson Othon
+		Payen Philippe Pierre Raimbaut Raoul Raymond Raynaud Renaud Richard Robert Robin Roger Rorgues Roubaud Savary Sigismond Simon Thibault Thiébaut 
+		Thierry Thomas Valeran Yves
+	}
+	female_names = {
+		Éléonore Élodie Étiennette Adèle Adalmode Adelaide Adelinde 
+		Agnès Aléarde Alice Aliénor Agathe
+		Alix Almodis Amelie Anne Antoinette Arsinde Aude Aurengarde 
+		Béatrice Béatrix Belleassez Benoîte Bérengère
+		Berthe Blanche Bonne Bourgogne Bourguigne Cécile Cathèrine 
+		Charlotte Constance Denise Douce Echive Eglantine
+		Elisabeth Emma Ermengarde Ermessinde Esclarmonde 
+		Euphrosine Eustachie Eve Gerberge Gisèle Guillaumette Héloise Helvis Hodierne Ide Ildégarde
+		Isabeau Isabelle Jeanne Judith Julienne Mafalda Mahaut Margot Marguerite Marie Marthe
+		Mascarose Mathilde Mélisande Mélisende Mélusine Péronelle Pernelle Perinne Pernette Plaisance 
+		Raymonde Sarrazine Solène Sophie Stéphanie Sybille Tiburge Valence Yolande
+	}
+}
+
+orcish = {
+	graphical_culture = westerngfx
+
+	green_orc = {
+		primary = O01 #The Greentide
+	}
+	
+	dynasty_names = { 
+	
+		#Generic
+		Bloodfang Gorehowl
+		Skullgrinder "Mountain-Eater" Ironskin Ironhide Deadhide Hammerfist Hammerspike Spikefist Swordfist "Dead-eye" Bloodspear Blackheart Manhunter Pureblood "Bright Eyes" "Eagle Eyes" "Half-Tongue" "Grog-Maker" Deathmonger
+		Swordmaster Warborn Stoneskin Warmonger Rockskull Skullblade Skullhorn Ogreborn Deadeye Longtooth Pigsnout Regehammer Crueldrum Stonefist Angerfang Steelsword Warpsteel Deathforge Cravenkiller Hellspitter Rocksnarler
+		Deadbreath Bitteraxe Shadowfeast Bloodfeast Redfeast Bloodscream Wildmarcher Brokenhammer Brokentusk "No-eyes" Silentblade Rageblood Rageblade Hellscream Blackhand Doomhammer Saurfang Bladefist Bloodreaver
+		Brightflesh Grandguard Armorskin Armorhide Steelhide Metalhide Metaljaw Sharpears Halfblood Ragechain Chaoschain Chaosblade Flameseeker Fireblood Battlefire Thunderstorm Thunderblood Thunderfang Axemaul Shadowblood
+	}
+	male_names = {
+		Deekin Qalk Aakax Dheep Rax Nerlisk Zarril Zux Adrax Jukop Vren Qirnux
+		Adam Alan Albert Alexander Alfred Andrew Anselm Arnold Arthur Aubrey Christopher David 		
+		Edmund Edward Eric Erik Eustace Fulk Folke Geoffrey George Gerald Gilbert Godfrey Gregory Guy 
+		Henry Hugh Humphrey Jocelyn John Jordan Laurence Lionel Mark Marcus Martin Matthew Maurice 
+		Michael Nicholas Paul Peter Philip Ralph Randolph Reginald Richard Robert Roger Simon Stephen 
+		Theobald Thomas Waleran Walter William Jacob Ambrose Anthony Archibald Benjamin Daniel Ernest 
+		Francis Horatio Isaac Jeremy Jonathan Joseph Lawrence Nehemiah Oliver Samuel Sydney 
+	}
+	female_names = {
+		Eru Tegil Ikse Uho Gakar Laadaa Lerlam Sersa Alra Vakkra
+		Jane Adela Adelaide Alice Amice Anne Anna Aveline Avelina Beatrice Blanche Catherine Cecilia 
+		Constance Edith Ela Eleanor Elizabeth Emma Hawise Isabel Isabella Elisabeth Joan Joanna 
+		Juliana Mahaut Margaret Mary Maria Maud Matilda Philippa Sybilla Sibylla
+	}
+}
+
+goblin	= {
+	graphical_culture = southamericagfx
+
+	forest_goblin = {
+		primary = F12 #oubbligschild
+	}
+
+	common_goblin = {
+		primary = Z20 #hideguzzler
+	}
+
+	hill_goblin = {
+#		primary = F78
+	}
+
+	cave_goblin = {
+		primary = I98 #Ves Udzenklan
+	}
+
+	dynasty_names = {
+		Nettlehunter Crystalparts Highmaw Ironbrew Dewbrew Cragroar Skullchewer Plainbreaker Orbhunter Ironbane #Namegenerator
+		pobnek-Lunk pobnek-Qalk pobnek-Noppes pobnek-Uskoa pobnek-Tegil pobnek-Zunewl #After persons
+		Sertin pobnek-Mal pobnek-Kek pobnek-Mit pobek-Zan pobnek-Mokmok pobnek-Poope
+		
+		Skullgrinder "Mountain-Eater" Ironskin Ironhide Deadhide Hammerfist Hammerspike Spikefist Swordfist "Dead-eye" Bloodspear Blackheart Manhunter Pureblood "Bright Eyes" "Eagle Eyes" "Half-Tongue" "Grog-Maker" Deathmonger
+		Swordmaster Warborn Stoneskin Warmonger Rockskull Skullblade Skullhorn Ogreborn Deadeye Longtooth Pigsnout Regehammer Crueldrum Stonefist Angerfang Steelsword Warpsteel Deathforge Cravenkiller Hellspitter Rocksnarler
+		Deadbreath Bitteraxe Shadowfeast Bloodfeast Redfeast Bloodscream Wildmarcher Brokenhammer Brokentusk "No-eyes" Silentblade Rageblood Rageblade Doomhammer Hellscream Blackhand Doomhammer Saurfang Bladefist Bloodreaver
+		Brightflesh Grandguard Armorskin Armorhide Steelhide Metalhide Metaljaw Sharpears Halfblood Ragechain Chaoschain Chaosblade Flameseeker Fireblood Battlefire Thunderstorm Thunderblood Thunderfang Axemaul Shadowblood
+	}
+	male_names = {
+		Chab Lunk Verk Reb Oubblig Krenzurd Rarsiff Jenthib Idrarseff Porgattub	#Namegenerator
+		Deekin Qalk Aakax Dheep Rax Nerlisk Zarril Zux Adrax Jukop Vren Qirnux #Borrowed from Orcish
+		Platzak Noppes Perzuk Feruk Kukov Varabo Zazak Prilric Jeembol Garut Zawul#Made up
+	}
+	female_names = {
+		Oxa Uskoa Yutu Guklo Lancha Oktu Zektuphru Gregnuphri Asigloo Motchenboa #Namegenerator
+		Eru Tegil Ikse Uho Gakar Laadaa Lerlam Sersa Alra Vakkra #Borrowed from Orcish
+		Hefta Zunewl Amegikra Floorce Dodoca Gosvo-Garde #Made up
+	}
+}
+
+high_elves = {
+	graphical_culture = elvengfx
+
+	eataine_elf = {
+		primary = L01
+	}
+	loremaster_elf = {
+		primary = L02
+	}
+	avelorn_elf = {
+		primary = L03
+	}
+	nagarythe_elf = {
+		primary = L04
+	}
+	yvresse_elf = {
+		primary = L05
+	}
+	caledor_elf = {
+		primary = L05
+	}
+	dynasty_names = { 
+	
+		#Generic Moon Elf Cannorized
+		Warsinger Bladedancer Moondance Moonblade Sunspear Redblade Redsun Shadowweaver Shadowdancer Shadowblade Crimsonspear Seadancer Seamoon Seasail Doomdancer Stronghunter Whiteblade Whitedagger Brightdagger Brighteyes
+		Silverhair Silvereyes Moonhair Mooneye Moonspirit Whisperwind Shadowsong Sunstrider Stormrage Feathermoon Ravencrest Stagwalker Forestwalker Gladewalker Gladehunter Gladedancer Gladeblade Bladewalker Moonwalker Moondancer
+		Felsong Bloodsong Moonsong Firesong Seasong Goodsong Silversong Goldsong Windrunner Windwalker Windblade Moonrunner Sunspirit Winddancer Windmoon Windsail Sunchaser Moonstrider Bloodsworn Moonsworn Lovesworn Bowsworn
+		Bowfeather Bowmaster Stringhair Bowhair Longhair Longbow Longsword Daggerdancer Sunreaver Sunfury Shadowfury Moonwatcher Elderdream Spellseer Spelldancer Spellblade Spelldagger Spellweaver Spellrunner Spellstrider
+		Magehand Silverhand Silverbow Silverblade Silverfury Silverseer Silverspell Hornblade Stargazer Stardancer Starblade Starwatcher Starweaver Sunstar Moonstar Leafhunter Nightbranch Duskblade Duskspear Duskrunner Duskdancer
+		Duskhand Skydancer Skyblade Skyseeker Skyfury Skyspinner Silverarrow Goldarrow Blackarrow Shadowarrow Skyarrow Magearrow Elderarrow Sunarrow Redarrow Bluearrow Gladearrow Woodarrow Whitearrow Brightarrow Bloodarrow
+		Searrow Windarrow Truearrow Truesight Trueblade Truehair Truebow Truespell Trueseer Truehunter Truehand 
+	}
+	male_names = {
+		Munarion Galinael Galindor Jahelor Jaher Urion Eborian Calasandal Calasandur Erelas Nesterin Filinar Erendil Thalanil Vindal Thalanor Vaceran Darastarion Celador Celadorian Finorian Aldarian Aldarion Alarian Arfil Celadil Elethor Elethar Eledas Threthinor Pelodir Ultarion Carodir Calrodir Aranthir Ivran Ivrandir Ivrandil Varilor Elanil Dorendor Varamael Varamel Varamelian Varamar Taelarios Taelar Taelarian Elrian Elriandor Varanar Camnar Camnarian Camnaril Gelehorn Galindil Ardor Ardorian Artorian Thelrion Adrahel Denarion Calindal Serondor Serondar Serondal Gelmonias Thirendil Thirendir Erlanil Eranil Triandil Evindal Oloris Darandil Alvarion Andrellion
+	}
+	female_names = {
+		Galindel Istralania Narawen Erelassa Filinara Celadora Thaliandel Selussa Imariel Vehari Veharia Varila Varilia Panoril Liandiel Varinna Ariathra Ariathen Amarien Alarawel Ladrindel Leslindel
+	}
+}
+wood_elf  = {
+	talsyn_elf = {
+		primary = W01
+	}
+	argwylon_elf = {
+		primary = W02
+	}
+	ariel_elf = {
+		primary = W03
+	}
+	gryphon_wood_elf = {
+		primary = W04
+	}
+	witchwood_wood_elf = {
+		primary = W05
+	}
+	gaean_wood_elf = {
+		primary = W06
+	}
+	laurelorn_wood_elf = {
+		primary = W07
+	}
+	gloom_wood_elf = {
+		primary = W08
+	}
+	sacred_pool_elf = {
+		primary = W09
+	}
+	oreon_wood_elf = {
+		primary = W10
+	}
+	dynasty_names = {
+	
+		#To be changed, revised generic moon elf + generic wood elven ones at the bottom
+		Warsinger Bladedancer Redblade Redsun Shadowweaver Shadowdancer Shadowblade Crimsonspear Seadancer Seasail Doomdancer Stronghunter Whiteblade Whitedagger Brightdagger Brighteyes
+		Silverhair Whisperwind Shadowsong Stormrage Ravencrest Stagwalker Forestwalker Gladewalker Gladehunter Gladedancer Gladeblade Bladewalker
+		Felsong Bloodsong Firesong Seasong Goodsong Goldsong Windrunner Windwalker Windblade Winddancer Windsail Bloodsworn Lovesworn Bowsworn
+		Bowfeather Bowmaster Stringhair Bowhair Longhair Longbow Longsword Daggerdancer Shadowfury Elderdream Spellseer Spelldancer Spellblade Spelldagger Spellweaver Spellrunner Spellstrider
+		Magehand Hornblade Stargazer Stardancer Starblade Starwatcher Starweaver Leafhunter Nightbranch Duskblade Duskspear Duskrunner Duskdancer
+		Duskhand Skydancer Skyblade Skyseeker Skyfury Skyspinner Silverarrow Goldarrow Blackarrow Shadowarrow Skyarrow Magearrow Elderarrow Redarrow Bluearrow Gladearrow Woodarrow Whitearrow Brightarrow Bloodarrow
+		Searrow Windarrow Truearrow Truesight Trueblade Truehair Truebow Truespell Trueseer Truehunter Truehand 
+		
+		Woodrunner Woodguard Woodguardian Woodbow Woodarrow Woodheart Woodfury Woodseer Woodspell Woodsinger Woodvale Woodriver
+		Treewatcher Treerunner Treestalker Treespinner Treedancer Treeblade Treespirit
+		Seedgrow Seedwatcher Seedhand Seedsong Seedhair Seedsinger Seedarrow Seedsight Seedbranch
+		Oakheart Oakwatcher Oakfeather Oakstrider
+		Leafarrow Leafbow Elderleaf Blackleaf Redleaf Leafblade Leafdagger Leafsinger Leafstrider
+		Greenwind Greenarrow Greenleaf Greenseer Greenwatcher Greenrunner Greenwatcher Greendreamer Greenbow
+		Mosswind Mossrunner Mosshair Mosswhispher
+	}
+	male_names = {
+		Munarion Galinael Galindor Jahelor Jaher Urion Eborian Calasandal Calasandur Erelas Nesterin Filinar Erendil Thalanil Vindal Thalanor Vaceran Darastarion Celador Celadorian Finorian Aldarian Aldarion Alarian Arfil Celadil Elethor Elethar Eledas Threthinor Pelodir Ultarion Carodir Calrodir Aranthir Ivran Ivrandir Ivrandil Varilor Elanil Dorendor Varamael Varamel Varamelian Varamar Taelarios Taelar Taelarian Elrian Elriandor Varanar Camnar Camnarian Camnaril Gelehorn Galindil Ardor Ardorian Artorian Thelrion Adrahel Denarion Calindal Serondor Serondar Serondal Gelmonias Thirendil Thirendir Erlanil Eranil Triandil Evindal Oloris Darandil Alvarion Andrellion
+	}
+	female_names = {
+		Galindel Istralania Narawen Erelassa Filinara Celadora Thaliandel Selussa Imariel Vehari Veharia Varila Varilia Panoril Liandiel Varinna Ariathra Ariathen Amarien Alarawel Ladrindel Leslindel
+	}
+}
+
+dark_elves = {
+	graphical_culture = elvengfx
+
+	naggarond_elf = {
+		primary = D01
+	}
+	ganeth_elf = {
+		primary = D02
+	}
+	graef_elf = {
+		primary = D03
+	}
+	maw_elf = {
+		primary = D04
+	}
+	dynasty_names = { 
+	
+		#Generic Moon Elf Cannorized
+		Warsinger Bladedancer Moondance Moonblade Sunspear Redblade Redsun Shadowweaver Shadowdancer Shadowblade Crimsonspear Seadancer Seamoon Seasail Doomdancer Stronghunter Whiteblade Whitedagger Brightdagger Brighteyes
+		Silverhair Silvereyes Moonhair Mooneye Moonspirit Whisperwind Shadowsong Sunstrider Stormrage Feathermoon Ravencrest Stagwalker Forestwalker Gladewalker Gladehunter Gladedancer Gladeblade Bladewalker Moonwalker Moondancer
+		Felsong Bloodsong Moonsong Firesong Seasong Goodsong Silversong Goldsong Windrunner Windwalker Windblade Moonrunner Sunspirit Winddancer Windmoon Windsail Sunchaser Moonstrider Bloodsworn Moonsworn Lovesworn Bowsworn
+		Bowfeather Bowmaster Stringhair Bowhair Longhair Longbow Longsword Daggerdancer Sunreaver Sunfury Shadowfury Moonwatcher Elderdream Spellseer Spelldancer Spellblade Spelldagger Spellweaver Spellrunner Spellstrider
+		Magehand Silverhand Silverbow Silverblade Silverfury Silverseer Silverspell Hornblade Stargazer Stardancer Starblade Starwatcher Starweaver Sunstar Moonstar Leafhunter Nightbranch Duskblade Duskspear Duskrunner Duskdancer
+		Duskhand Skydancer Skyblade Skyseeker Skyfury Skyspinner Silverarrow Goldarrow Blackarrow Shadowarrow Skyarrow Magearrow Elderarrow Sunarrow Redarrow Bluearrow Gladearrow Woodarrow Whitearrow Brightarrow Bloodarrow
+		Searrow Windarrow Truearrow Truesight Trueblade Truehair Truebow Truespell Trueseer Truehunter Truehand 
+	}
+	male_names = {
+		Munarion Galinael Galindor Jahelor Jaher Urion Eborian Calasandal Calasandur Erelas Nesterin Filinar Erendil Thalanil Vindal Thalanor Vaceran Darastarion Celador Celadorian Finorian Aldarian Aldarion Alarian Arfil Celadil Elethor Elethar Eledas Threthinor Pelodir Ultarion Carodir Calrodir Aranthir Ivran Ivrandir Ivrandil Varilor Elanil Dorendor Varamael Varamel Varamelian Varamar Taelarios Taelar Taelarian Elrian Elriandor Varanar Camnar Camnarian Camnaril Gelehorn Galindil Ardor Ardorian Artorian Thelrion Adrahel Denarion Calindal Serondor Serondar Serondal Gelmonias Thirendil Thirendir Erlanil Eranil Triandil Evindal Oloris Darandil Alvarion Andrellion
+	}
+	female_names = {
+		Galindel Istralania Narawen Erelassa Filinara Celadora Thaliandel Selussa Imariel Vehari Veharia Varila Varilia Panoril Liandiel Varinna Ariathra Ariathen Amarien Alarawel Ladrindel Leslindel
+	}
+}
+
+dwarven = {
+	graphical_culture = westerngfx
+
+	karak_dwarf = {
+		primary = D01
+	}
+	angrund_dwarf = {
+		primary = D02
+	}
+	kadrin_dwarf = {
+		primary = D03
+	}
+	varr_dwarf = {
+		primary = D04
+	}
+	azul_dwarf = {
+		primary = D05
+	}
+	hirn_dwarf = {
+		primary = D06
+	}
+	norn_dwarf = {
+		primary = D07
+	}
+	ziflin_dwarf = {
+		primary = D08
+	}
+	drak_dwarf = {
+		primary = D09
+	}
+	zhufbar_dwarf = {
+		primary = D10
+	}
+	helhein_dwarf = {
+		primary = D11
+	}
+
+	dynasty_names = { 
+		"az-Run" Grommubanar Dimmal Dwinodum Dwinodar Grudanar Calnoraz Azduran Harrak Throm Throfrum Belarr Belarruz Bofgribal Thingribal "az-Thingr" Calikorbal 
+		Asra "az-Mag" "az-Shoka" "az-Regund" "az-Hehod" "az-Dar" "az-Urgongr" "az-Shemdur" "az-Lelorn" "az-Modan"
+		
+		Battlehammer Axehammer Ettinkiller Minesmiter Minesmith Hammersmith Forgehammer Bloodsteel Earthfist Bronzebeard Goldbeard Stonebeard Hammerbeard Frostbeard Whitebeard
+		Breakbeard Ringbeard Gembeard Ogreslayer Orcslayer Spiderslayer Goblinslayer Graybeard Greybeard Redbeard Warhorn Gemhorn Longbeard Truebellow Blackbellow Strongbellow
+		Shalesmith Shaleaxe Shalehammer Shaleforger Shalebeard Heavyaxe Skullaxe Gemcraver Goodanvil Blackanvil Shaleanvil Forgeanvil Axeanvil Trueanvil Bloodanvil 
+	}
+	male_names = {
+		Adar Adranbur Adûn Balgar Balgor Balin Bardin Bardur Beldûn Belgar Bofur Bolin Bombur Borin Brann Brok Bruenor Calin Cûn Dagran Dain Dalbaran Dalmund Dolin Dorin Dorri Durbûr Durin Dwalin Dwarin Edûn Falstad 
+		Farûn Fimbur Flondi Foldan Gorar Goren Gotrek Grim Grimmar Grimmun Gromar Gronmar Grûaim Grûar Grûn Gundobad Gundobar Gundobin Gundomar Hardûn Harlûn Harrûk Hjal Hjalmar Karrom Kazadûr Khadan Kildan Kildar Kildûm Kûrgûm Lodûn Lorek Lorimbur Madarûn Magar 
+		Magni Magnus Magûn Morzad Muradin Nali Nalin Norbûn Norbûr Nori Norimbur Norin Odar Odur Odûn Okar Olin Orim Orin Ragun Ragund Runmar Rûnimûr Sevrund Simbûr Simur Simûn Sindri Snorri Storin Storlin Storum Thargas Thargor Thinbur Thindobar Thindri 
+		Thingrim Thinobad Thorar Thorgrim Thorin Thrain Thrair Thror Thrûn Thrûr Thudri Tungdil Ungrim Urist Urûr
+	}
+	female_names = {
+		Adala Aira Anvi Auci Balga Barila Barra Belga Belgia Bella Branma Brenla Brenleil Brenlel Brina Broga Bronis Cala Dalina 
+		Dwalra Edeth Etta Grelba Grimma Groria Gruia Isondi Lahgi Lisban Magda Mistri Moira Mori Moria Naim Ovondi Ronla Sivondi Tharkuni Thohga Ungi
+	}
+}
+
+chaos = {
+	graphical_culture = westerngfx
+
+	khorne_chaos = {
+		primary = C01
+	}
+	tzeentch_chaos = {
+		primary = C02
+	}
+	nurgle_chaos = {
+		primary = C03
+	}
+	slaanesh_chaos = {
+		primary = C04
+	}
+	dynasty_names = { 
+	
+		#Generic Moon Elf Cannorized
+		Bloody Helbrass Scarred Kul Suneater 
+	}
+	male_names = {
+		Archaon Sigvald Kholek Abrax Aekold Albodi Asavar Festus
+	}
+	female_names = {
+		Galindel Istralania Narawen Erelassa Filinara Celadora Thaliandel Selussa Imariel Vehari Veharia Varila Varilia Panoril Liandiel Varinna Ariathra Ariathen Amarien Alarawel Ladrindel Leslindel
+	}
+}
+
+tombkings = {
+	graphical_culture = westerngfx
+
+	nagash = {
+		primary = t01
+	}
+	dynasty_names = { 
+	
+		#Generic Moon Elf Cannorized
+		Bloody Helbrass Scarred Kul Suneater 
+	}
+	male_names = {
+		Archaon Sigvald Kholek Abrax Aekold Albodi Asavar Festus
+	}
+	female_names = {
+		Galindel Istralania Narawen Erelassa Filinara Celadora Thaliandel Selussa Imariel Vehari Veharia Varila Varilia Panoril Liandiel Varinna Ariathra Ariathen Amarien Alarawel Ladrindel Leslindel
+	}
+}

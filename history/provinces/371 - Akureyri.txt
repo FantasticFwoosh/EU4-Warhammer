@@ -1,0 +1,27 @@
+#371 - Akureyri
+
+owner = 
+controller = 
+add_core =  
+add_core = ICE
+culture = icelandic
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+capital = "Akureyri"
+add_local_autonomy = 25
+is_city = yes
+owner = 
+controller = 
+add_core = 	
+
+
+
+discovered_by = western
+
+
+1536.1.1 = { religion = protestant owner =  controller =  add_core =  }
+1752.1.1 = { trade_goods = wool } # Wool becomes more important.

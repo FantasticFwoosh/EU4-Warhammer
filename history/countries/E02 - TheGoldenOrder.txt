@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = reiklander
+add_accepted_culture = reiklander
+religion = catholic
+technology_group = western
+capital = 67
+add_army_professionalism = 0.1
+
+999.2.2 = {
+	monarch = {
+		name = "Balthasar"
+		dynasty = "Gelt"
+		birth_date = 965.11.4
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}

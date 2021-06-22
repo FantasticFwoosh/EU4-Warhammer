@@ -1,0 +1,24 @@
+government = monarchy
+add_government_reform = ottoman_government
+primary_culture = turkish
+#add_accepted_culture = bulgarian
+religion = sunni
+technology_group = ottoman
+#historical_rival = MAM
+capital = 149 # Edirne
+national_focus = MIL
+add_army_professionalism = 0.1
+religious_school = hanafi_school
+
+999.1.1 = {
+	leader = {
+		name = "Arkhan the Black"
+		type = general
+		fire = 3
+		shock = 3
+		manuever = 3
+		siege = 1
+		death_date = 1453.9.9
+		personality = inspirational_leader_general_personality
+	}
+}

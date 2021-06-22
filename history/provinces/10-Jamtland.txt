@@ -1,0 +1,40 @@
+#Jämtland+Härjedalen
+
+owner = 
+controller = 
+culture = norwegian # They were actually Jämts - the unique blend of Swedish, Norwegian and local tendencies
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "Frösön"
+add_local_autonomy = 25
+is_city = yes
+owner = 
+controller = 
+add_core = 
+add_core = 
+
+
+
+discovered_by = eastern
+discovered_by = western
+
+
+1527.6.1 = { religion = protestant}
+1531.11.5 = { unrest = 10 } # The Return of Christian II
+1532.7.15 = { unrest = 0 } # The Capture of Christian II
+1536.1.1 = { owner =  controller =  add_core =  } # 'Handfästningen'(Unknown date)
+1564.2.10 = { controller =  } # Nordic Seven-years War
+1570.11.18 = { controller =  } # The Peace at Roskilde in 1570
+1611.8.1 = { controller =  } # The War of Kalmar (Unknown date)
+1613.1.20 = { controller =  } # The Peace of Knäred
+1644.2.1 = { controller =  } # Torstenssons War-Captured by Herman Flemming (Unknown date)
+1644.8.1 = { controller =  } # Torstenssons War-Captured by Hannibal Sehested
+1645.8.13 = { owner =  controller =  add_core =  } # The Peace of Brömsebro
+1657.11.25 = { controller =  } # Karl X Gustavs First Danish War-Captured by Bielke
+1658.2.26 = { controller =  } # The Peace of Roskilde
+1690.1.1 = { culture = swedish } # date estimated
+1786.10.23 = { capital = "Östersund" }

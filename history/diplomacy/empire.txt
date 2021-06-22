@@ -1,0 +1,7 @@
+# Reikland and Carroburg
+vassal = {
+	first = E01
+	second = E08
+	start_date = 999.1.1
+	end_date = 1526.1.1
+}

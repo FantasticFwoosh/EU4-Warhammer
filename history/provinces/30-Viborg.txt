@@ -1,0 +1,36 @@
+#Viborgs län, incl. Viborg, Villmansstrand, and Kivinäbb.
+
+owner = 
+controller = 
+add_core = 
+add_core = FIN
+culture = finnish
+religion = catholic
+hre = no
+base_tax = 2 
+base_production = 2
+trade_goods = fur
+base_manpower = 2
+capital = "Viborg"
+is_city = yes
+owner = 
+controller = 
+add_core = 
+fort_15th = yes
+
+
+
+discovered_by = western
+discovered_by = eastern
+
+
+1497.3.13 = { controller =  } #Danish loyalists at Danish DoW
+1497.10.6 = { controller =  } #Hans I become King and Sweden a Danish Vassal
+1501.8.1 = { controller =  } #Danish loyalists at Swedish DoW and breaking of vassalage
+1502.9.10 = { controller =  } #Retaken by Sweden
+1527.6.1 = { religion = protestant}
+1550.1.1 = { trade_goods = naval_supplies } #Estimated Date
+1598.8.1 = { controller = PLC } #Sigismund tries to reconquer his crown
+1599.9.17 = { controller =  } #Duke Karl get it back
+1710.6.10 = { controller = RUS } #The Great Nordic War-Captured Viborg
+1721.8.30 = { owner = RUS add_core = RUS remove_core =  } #The Peace of Nystad

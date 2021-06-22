@@ -1,0 +1,16 @@
+owner = KUB
+controller = KUB
+add_core = KUB
+culture = kuba
+religion = shamanism #Fetishism
+capital = "Nunu"
+trade_goods = tropical_wood
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 2
+is_city = yes
+owner = 
+controller = 
+add_core = 
+discovered_by = central_african

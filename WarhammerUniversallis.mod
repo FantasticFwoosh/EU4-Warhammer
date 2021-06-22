@@ -1,0 +1,15 @@
+name="Warhammer Universallis"
+tags={
+	"Alternative History"
+	"Total Conversion"
+	"Fantasy"
+}
+replace_path="common/bookmarks"
+replace_path="common/countries"
+replace_path="history/countries"
+replace_path="history/provinces"
+replace_path="gfx/loadingscreens"
+picture="warhammer.jpg"
+supported_version="1.31.4"
+path="C:/Users/balis/OneDrive/Documents/Paradox Interactive/Europa Universalis IV/mod/Warhammer Universallis"
+remote_file_id="2519895498"

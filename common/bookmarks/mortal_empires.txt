@@ -1,0 +1,14 @@
+bookmark =
+{
+	name = "MORTALEMPIRES_NAME"
+	desc = "MORTALEMPIRES_DESC"
+	date = 1000.11.11
+	
+	center = 8
+	default = yes
+	
+	country = E01	# Reikland
+	country = E02	# The Golden Order
+	
+	easy_country = E01	#Reikland
+}

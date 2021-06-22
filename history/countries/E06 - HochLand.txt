@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = hochlander
+add_accepted_culture = hochlander
+religion = catholic
+technology_group = western
+capital = 67 # Lorentaine
+add_army_professionalism = 0.1
+
+elector = yes
