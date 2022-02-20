@@ -1,0 +1,53 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = reiklander
+add_accepted_culture = reiklander
+religion = catholic
+technology_group = western
+capital = 75
+add_army_professionalism = 0.1
+
+elector = yes
+
+#historical_rival = A13 
+#historical_friend = A03
+
+#1000.1.1 = { set_estate_privilege = estate_mages_organization_guilds }
+#1000.1.2 = { set_country_flag = avoids_colonist_settlement_growth }
+#1422.1.1 = { set_country_flag = lilac_wars_rose_party }
+
+999.1.1 = {
+	monarch = {
+		name = "Karl"
+		dynasty = "Franz"
+		birth_date = 980.11.4
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = benevolent_personality
+	heir = {
+		name = "Karl"
+		monarch_name = "Karl VII"
+		dynasty = "Franz"
+		birth_date = 1000.6.27
+		death_date = 1100.1.1
+		claim = 95
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+	add_heir_personality = conqueror_personality
+	queen = {
+		country_of_origin = A01
+		name = "Laurenne"
+		dynasty = "síl Kyliande"
+		birth_date = 986.1.25
+		death_date = 1492.6.8
+		female = yes
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+	add_queen_personality = fertile_personality
+}

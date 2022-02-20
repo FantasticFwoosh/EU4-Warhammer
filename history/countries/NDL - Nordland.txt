@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+primary_culture = nordlander
+religion = catholic
+technology_group = western
+capital = 77 # Lorentaine
+elector = yes
+999.1.1 = {
+	monarch = {
+		name = "Theoderic"
+		dynasty = "Gausser"
+		birth_date = 990.7.2
+		adm = 4
+		dip = 4
+		mil = 3
+	}
+	add_ruler_personality = benevolent_personality
+}

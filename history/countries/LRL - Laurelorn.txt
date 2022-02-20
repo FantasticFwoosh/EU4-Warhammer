@@ -1,0 +1,22 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = laurelorn_wood_elf
+religion = catholic
+technology_group = western
+capital = 56 #LaurelornHeart
+
+
+
+#1422.1.1 = { set_country_flag = lilac_wars_rose_party }
+
+999.1.1 = {
+	monarch = {
+		name = "Test"
+		dynasty = "Test"
+		birth_date = 980.11.4
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+	add_ruler_personality = benevolent_personality
+}
