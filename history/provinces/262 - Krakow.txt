@@ -15,9 +15,9 @@ base_production = 7
 trade_goods = salt
 base_manpower = 6
 is_city = yes
-owner = E15
-controller = E15
-add_core = E15
+owner = 
+controller = 
+add_core = 
 fort_15th = yes
  #Jagiellonian University established in 1364 by Casimir III the Great
 add_core = POL
