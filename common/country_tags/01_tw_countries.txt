@@ -1,0 +1,16 @@
+#Old World
+#Empire
+RKL	= "countries/Reikland.txt"
+TGO	= "countries/TheGoldenOrder.txt"
+MDD	= "countries/Middenland.txt"
+MRB	= "countries/Marienburg.txt"
+AAR	= "countries/Aarnau.txt"
+NDL	= "countries/Nordland.txt"
+CAR	= "countries/Carroburg.txt"
+GOR	= "countries/Gorssel.txt"
+OST	= "countries/Ostland.txt"
+GRB	= "countries/Grunburg.txt"
+#Greenskins
+LCZ	= "countries/LeafCutterz.txt"
+#Woodelves
+LRL 	= "countries/Laurelorn.txt"
