@@ -4,9 +4,9 @@ owner = LOR
 controller = LOR 
 capital = "Eilhart"
 is_city = yes
-owner = E09
-controller = E09
-add_core = E09
+owner = 
+controller = 
+add_core = 
 culture = eilharter
 religion = catholic
 hre = yes
@@ -14,7 +14,6 @@ base_tax = 5
 base_production = 5
 trade_goods = iron
 base_manpower = 5
-add_core = LOR
 
 
 
