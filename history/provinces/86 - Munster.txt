@@ -15,7 +15,6 @@ owner =
 controller = 
 add_core = 
 hre = yes
-add_core = MUN
 
 
 

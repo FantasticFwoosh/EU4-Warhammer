@@ -1,8 +1,9 @@
 #63 - Erfurt
 
-owner = THU
-controller = THU
-culture = saxon
+owner = 
+controller = 
+add_core = 
+culture = middenlander
 religion = catholic
 capital = "Erfurt"
 trade_goods = dyes #Woad, also a center for glassmaking
@@ -11,11 +12,6 @@ base_tax = 5
 base_production = 4
 base_manpower = 3
 is_city = yes
-owner = 
-controller = 
-add_core = 
-add_core = THU
-add_core = MAI
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

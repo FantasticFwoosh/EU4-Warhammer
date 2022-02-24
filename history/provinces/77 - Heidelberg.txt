@@ -1,10 +1,9 @@
 #77 - Heidelberg
 
-capital = "Heidelberg"
-culture = hessian
+capital = "Nordland"
+culture = nordlander
 religion = catholic
 trade_goods = wine
-owner = PAL
 base_tax = 5
 base_production = 4
 base_manpower = 4
@@ -13,8 +12,6 @@ is_city = yes
 owner = 
 controller = 
 add_core = 
-controller = PAL
-add_core = PAL
 hre = yes
 
 

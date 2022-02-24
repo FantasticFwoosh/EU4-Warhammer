@@ -1,17 +1,13 @@
 #Savolaks, incl. Nyslott(Olofsborg).
 
-owner = 
-controller = 
-add_core = 
-add_core = FIN
-culture = finnish
+culture = middenlander
 religion = catholic
-hre = no
-base_tax = 1 
-base_production = 1
+hre = yes
+base_tax = 6
+base_production = 3
 trade_goods = fur
-base_manpower = 1
-capital = "Olofsborg"
+base_manpower = 3
+capital = "Ankeeven"
 is_city = yes
 owner = 
 controller = 

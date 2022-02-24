@@ -1,18 +1,16 @@
-culture = swabian
-owner = WUR
-controller = WUR
-add_core = WUR
-capital = "Stuttgart"
+culture = middenlander
+owner = 
+controller = 
+add_core = 
+capital = "Middenheim"
 religion = catholic
 trade_goods = grain
 base_tax = 4
 base_production = 4
 base_manpower = 3
 is_city = yes
-owner = 
-controller = 
-add_core = 
 hre = yes
+center_of_trade = 1
 
 
 

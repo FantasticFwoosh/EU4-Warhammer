@@ -4,9 +4,10 @@ latent_trade_goods = {
 	coal
 }
 
-owner = KOL
-controller = KOL
-culture = hannoverian
+owner = 
+controller = 
+add_core = 
+culture = nordlander
 religion = catholic
 trade_goods = wool
 capital = "Arnsberg"
@@ -15,10 +16,6 @@ base_production = 3
 base_manpower = 1
 hre = yes
 is_city = yes
-owner = 
-controller = 
-add_core = 
-add_core = KOL
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

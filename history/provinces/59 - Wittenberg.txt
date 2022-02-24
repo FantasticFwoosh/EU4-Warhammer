@@ -1,8 +1,9 @@
 #59 - Wittenberg
 
-owner = SAX
-controller = SAX
-culture = saxon
+owner = 
+controller = 
+add_core = 
+culture = nordlander
 religion = catholic
 capital = "Wittenberg"
 trade_goods = wool
@@ -11,10 +12,6 @@ base_tax = 4
 base_production = 4
 base_manpower = 2
 is_city = yes
-owner = 
-controller = 
-add_core = 
-add_core = SAX
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

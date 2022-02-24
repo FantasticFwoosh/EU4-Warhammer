@@ -1,19 +1,16 @@
 #81 - Hessen
 
-owner = HES
-controller = HES
-add_core = HES
+owner = 
+controller = 
+add_core = 
 capital = "Marburg"
 trade_goods = wool
-culture = hessian
+culture = nordlander
 religion = catholic
 base_tax = 4 
 base_production = 3
 base_manpower = 3
 is_city = yes
-owner = E24
-controller = E24
-add_core = E24
 hre = yes
 discovered_by = eastern
 discovered_by = western

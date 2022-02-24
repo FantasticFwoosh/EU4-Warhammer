@@ -1,21 +1,18 @@
 #56 - Osnabrück
 
-owner = MUN
-controller = MUN
-culture = hannoverian
+owner = 
+controller = 
+add_core = 
+culture = laurelorn_wood_elf
 religion = catholic
-capital = "Osnabrück"
-trade_goods = salt
-hre = yes
+capital = "Central Laurelorn Woods"
+trade_goods = wine
+hre = no
 base_tax = 3
 base_production = 4
 base_manpower = 2
 is_city = yes
-owner = 
-controller = 
-add_core = 
-add_core = MUN
-add_core = OSN
+
 
 
 

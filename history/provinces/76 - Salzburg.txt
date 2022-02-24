@@ -1,8 +1,9 @@
 #76 - Salzburg
 
-owner = SLZ
-controller = SLZ 
-culture = bavarian
+owner = 
+controller = 
+add_core = 
+culture = nordlander
 religion = catholic
 capital = "Salzburg"
 trade_goods = salt
@@ -11,11 +12,6 @@ base_tax = 5
 base_production = 5
 base_manpower = 4
 is_city = yes
-owner = 
-controller = 
-add_core = 
-add_core = SLZ
-center_of_trade = 1
 
 
 

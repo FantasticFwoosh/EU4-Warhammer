@@ -1,20 +1,17 @@
 #40 - Memel
 
-owner = TEU
-controller = TEU
-culture = lithuanian
+owner = 
+controller = 
+add_core = 
+culture = middenlander
 religion = catholic
 capital = "Memel"
 trade_goods = livestock
-hre = no
+hre = yes
 base_tax = 3
 base_production = 3
 base_manpower = 3
 is_city = yes
-owner = 
-controller = 
-add_core = 
-add_core = TEU
 discovered_by = eastern
 discovered_by = western
 discovered_by = muslim

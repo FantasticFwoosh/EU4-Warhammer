@@ -1,14 +1,13 @@
 #79 - Würzburg
-owner = WBG
-controller = WBG
-add_core = WBG
-culture = franconian
+owner = 
+controller = 
+add_core = 
+culture = nordlander
 religion = catholic
 base_tax = 4
 base_production = 4
 trade_goods = wine
 base_manpower = 3
-fort_15th = yes # Marienberg Fortress
 capital = "Würzburg"
 hre = yes
 
@@ -20,9 +19,7 @@ discovered_by = muslim
 discovered_by = ottoman
 
 is_city = yes
-owner = 
-controller = 
-add_core = 
+
 
 1583.1.1 = { fort_15th = no fort_16th = yes }
 1631.10.15 = { controller =  }

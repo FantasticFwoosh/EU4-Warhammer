@@ -1,20 +1,18 @@
 #53 - Lüneburg
 
-owner = LUN
-controller = LUN
-add_core = LUN
-culture = lower_saxon
+owner = 
+controller = 
+add_core = 
+culture = laurelorn_wood_elf
 religion = catholic
-capital = "Lüneburg"
-trade_goods = salt
-hre = yes
+capital = "Southern Laurelorn Woods"
+trade_goods = fur
+hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-owner = 
-controller = 
-add_core = 
+
 
 
 

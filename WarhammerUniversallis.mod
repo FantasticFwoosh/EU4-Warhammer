@@ -1,4 +1,4 @@
-name="Warhammer Universallis"
+name="WarhammerUniversallis"
 tags={
 	"Alternative History"
 	"Total Conversion"
@@ -11,5 +11,5 @@ replace_path="history/provinces"
 replace_path="gfx/loadingscreens"
 picture="warhammer.jpg"
 supported_version="1.32.*"
-path="C:/Users/balis/OneDrive/Documents/Paradox Interactive/Europa Universalis IV/mod/Warhammer Universallis"
+path="C:/Users/balis/OneDrive/Documents/Paradox Interactive/Europa Universalis IV/mod/WarhammerUniversallis"
 remote_file_id="2519895498"

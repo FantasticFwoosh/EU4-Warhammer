@@ -1,8 +1,8 @@
 # 65 - München
-owner = UBV
-controller = UBV
-add_core = UBV
-culture = bavarian
+owner = 
+controller = 
+add_core = 
+culture = middenlander
 religion = catholic
 base_tax = 6 
 base_production = 5
@@ -10,9 +10,6 @@ trade_goods = grain
 base_manpower = 4
 capital = "München"
 is_city = yes
-owner = 
-controller = 
-add_core = 
 hre = yes
 fort_15th = yes
 discovered_by = eastern

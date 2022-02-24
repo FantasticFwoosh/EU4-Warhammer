@@ -1,20 +1,17 @@
 #42 - Warmia
 
-owner = TEU
-controller = TEU
-capital = "Allenstein"
-culture = prussian
-religion = catholic
-trade_goods = naval_supplies
-hre = no
-base_tax = 3
-base_production = 3
-base_manpower = 2
-is_city = yes
 owner = 
 controller = 
 add_core = 
-add_core = TEU
+capital = "Allenstein"
+culture = green_orc
+religion = catholic
+trade_goods = naval_supplies
+hre = no
+base_tax = 8
+base_production = 6
+base_manpower = 10
+is_city = yes
 
 
 

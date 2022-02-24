@@ -1,9 +1,9 @@
 #68 - Memmingen
 
-owner = MEM
-controller = MEM
-add_core = MEM
-culture = swabian
+owner = 
+controller = 
+add_core = 
+culture = middenlander
 religion = catholic
 hre = yes
 base_tax = 5
@@ -12,9 +12,6 @@ trade_goods = cloth
 base_manpower = 3
 capital = "Memmingen" 
 is_city = yes
-owner = 
-controller = 
-add_core = 
 
 
 

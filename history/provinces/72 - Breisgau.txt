@@ -3,8 +3,7 @@
 owner = 
 controller = 
 add_core = 
-add_core = TIR
-culture = reiklander
+culture = nordlander
 religion = catholic
 base_tax = 4 
 base_production = 4
@@ -12,10 +11,6 @@ trade_goods = glass
 base_manpower = 3
 capital = "Freiburg" 
 is_city = yes
-
-owner = E01
-controller = E01
-add_core = E01
 hre = yes
 
 discovered_by = eastern

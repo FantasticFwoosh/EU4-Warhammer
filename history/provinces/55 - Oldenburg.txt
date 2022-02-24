@@ -1,20 +1,17 @@
 #55 - Oldenburg
 
-owner = OLD
-controller = OLD
-culture = nordlander
+culture = laurelorn_wood_elf
 religion = catholic
-capital = "Oldenburg"
+capital = "West Laurelorn Woods"
 trade_goods = salt
-hre = yes
+hre = no
 base_tax = 3 
 base_production = 2
 base_manpower = 2
 is_city = yes
-owner = E05
-controller = E05
-add_core = E05
-#add_core = OLD
+owner = 
+controller = 
+add_core = 
 
 
 

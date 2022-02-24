@@ -1,16 +1,13 @@
 #Ingermanland, incl. Ivangorod, Jama, and Kopore.
 
-owner = NOV
-controller = NOV
-add_core = NOV
-culture = novgorodian
-religion = orthodox
-hre = no
+culture = middenlander
+religion = catholic
+hre = yes
 base_tax = 3 
-base_production = 3
+base_production = 4
 trade_goods = fur
-base_manpower = 1
-capital = "Koporye"
+base_manpower = 2
+capital = "Test"
 is_city = yes
 owner = 
 controller = 
